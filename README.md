@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Umama Hashmi! 👋
 
-<!--
-**UmamaHashmi-Cyber/UmamaHashmi-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛡️ Aspiring Security Analyst | BSCS Student @ IIUI
+I am a dedicated Computer Science student focusing on building a strong foundation in **Cybersecurity Defense** and **SOC Operations**. I'm currently working through the Google Cybersecurity Professional Certificate and Cisco Networking Academy.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently learning: **Network Security, Linux, and Threat Detection**
+- ⚡ Top Performer: **HEC Generative AI Training Course**
+- 🎯 Goal: **Becoming a SOC Analyst by 2027**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Toolkit (In Progress)
+**OS:** Kali Linux, Windows
+- **Tools:** VMware, Nmap (Learning), Wireshark (Learning)
+- **Certifications:** Cisco Intro to Cybersecurity (Completed), Google Foundations (In Progress)
+
+### 📬 Connect with me:
+https://www.linkedin.com/in/umama-hashmi-12145329b?utm_source=share_via&utm_content=profile&utm_medium=member_android
